@@ -2,3 +2,10 @@
 values, which can break code that distinguishes between `undefined` and `null`,
 existence in the config object, or passes config values directly to other code
 that is strict about what it accepts.
+
+Run:
+
+```console
+$ yarn
+$ next dev
+```
